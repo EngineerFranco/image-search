@@ -1,4 +1,4 @@
-# image-search
+# image-search-webapp
 
 
 API Integration
